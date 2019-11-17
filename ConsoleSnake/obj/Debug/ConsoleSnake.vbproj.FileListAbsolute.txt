@@ -1,0 +1,11 @@
+c:\users\vince\source\repos\ConsoleSnake\ConsoleSnake\bin\Debug\ConsoleSnake.exe.config
+c:\users\vince\source\repos\ConsoleSnake\ConsoleSnake\bin\Debug\ConsoleSnake.exe
+c:\users\vince\source\repos\ConsoleSnake\ConsoleSnake\bin\Debug\ConsoleSnake.pdb
+c:\users\vince\source\repos\ConsoleSnake\ConsoleSnake\bin\Debug\ConsoleSnake.xml
+c:\users\vince\source\repos\ConsoleSnake\ConsoleSnake\obj\Debug\ConsoleSnake.vbprojResolveAssemblyReference.cache
+c:\users\vince\source\repos\ConsoleSnake\ConsoleSnake\obj\Debug\ConsoleSnake.Resources.resources
+c:\users\vince\source\repos\ConsoleSnake\ConsoleSnake\obj\Debug\ConsoleSnake.vbproj.GenerateResource.Cache
+c:\users\vince\source\repos\ConsoleSnake\ConsoleSnake\obj\Debug\ConsoleSnake.vbproj.CoreCompileInputs.cache
+c:\users\vince\source\repos\ConsoleSnake\ConsoleSnake\obj\Debug\ConsoleSnake.exe
+c:\users\vince\source\repos\ConsoleSnake\ConsoleSnake\obj\Debug\ConsoleSnake.xml
+c:\users\vince\source\repos\ConsoleSnake\ConsoleSnake\obj\Debug\ConsoleSnake.pdb
